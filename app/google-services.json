@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "946259898464",
+    "firebase_url": "https://proyectoplataformas-7348b.firebaseio.com",
+    "project_id": "proyectoplataformas-7348b",
+    "storage_bucket": "proyectoplataformas-7348b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946259898464:android:157c0df6506a45f3",
+        "android_client_info": {
+          "package_name": "com.example.proyectodispositvos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHR53s5OVTV3DjpSPScut36Pr-GCOtxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946259898464-1klhh5rbpporone93oarts6ha7d1kigh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
